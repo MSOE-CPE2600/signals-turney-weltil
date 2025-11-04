@@ -4,9 +4,13 @@
  */
 
 /**
- * Modified by:
+ * Modified by: Larissa Welti
  * 
  * Brief summary of modifications:
+    Removed the exiting of the program when handling the signal 
+    In order to exit the program you now must stop the program with CTRL+Z
+    and enter the command "kill -SIGKILL PID" or "kill -9 PID" 
+    where you get the PID from entering "ps" into the command line
  */
 
 
@@ -20,7 +24,7 @@
  */
 void handle_signal() {
     printf("Received a signal\n");
-    exit(1);
+    sleep(1);
 }
 
 int main() {
