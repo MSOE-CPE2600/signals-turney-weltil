@@ -1,7 +1,7 @@
 /**
  * File: signal_alarm.c
  * Modified by: Larissa Welti
- * 
+ * Course: CPE 2600 121
  * Brief summary of program:
     sends an alarm signal after 5 seconds
     meanwhile "Sleeping" is printed to the display every second

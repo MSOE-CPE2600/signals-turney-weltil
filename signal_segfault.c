@@ -5,7 +5,7 @@
 
 /**
  * Modified by:Larissa Welti
- * 
+ * Course: CPE 2600 121
  * Brief summary of modifications:
     Added a handler that prints when a segmentation fault occurs
     Nothing else is done so will repeatedly send the segmentation fault

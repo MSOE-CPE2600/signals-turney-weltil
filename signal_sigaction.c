@@ -1,7 +1,7 @@
 /**
  * File: signal_sigaction.c
  * Modified by: Larissa Welti
- * 
+ * Course: CPE 2600 121
  * Brief summary of program:
     This program waits for a USR1 signal
     and prints the PID of the signal when it is recieved

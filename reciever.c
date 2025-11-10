@@ -1,8 +1,9 @@
 /**
- * File: send_signal.c
+ * File: reciever.c
  * Modified by: Larissa Welti
- * 
- * Brief summary of program:
+ * Course: CPE 2600 121
+ * Brief summary of program: Recieves signal from the 
+ server and sends signals back to the server
  */
 #include <stdlib.h>
 #include <stdio.h>

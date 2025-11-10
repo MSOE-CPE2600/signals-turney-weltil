@@ -1,7 +1,7 @@
 /**
  * File: recv_signal.c
  * Modified by: Larissa Welti
- * 
+ * Course: CPE 2600 121
  * Brief summary of program:
  */
   #include <stdio.h>

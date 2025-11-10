@@ -5,7 +5,7 @@
 
 /**
  * Modified by: Larissa Welti
- * 
+ * Course: CPE 2600 121
  * Brief summary of modifications:
     Removed the exiting of the program when handling the signal 
     In order to exit the program you now must stop the program with CTRL+Z
